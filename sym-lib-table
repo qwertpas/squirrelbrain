@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "squirrelbrain")(type "KiCad")(uri "${KIPRJMOD}/squirrelbrain.kicad_sym")(options "")(descr ""))
+)
