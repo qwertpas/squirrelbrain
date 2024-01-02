@@ -1,4 +1,4 @@
-22230262920676217
+22237068699790404
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -91875,6 +91875,27 @@ varistor
 2
 2
 squirrelbrain
+AMASS_XT30U-F_1x02_P5.0mm_Vertical
+Connector XT30 Vertical Cable Male, https://www.tme.eu/en/Document/3cbfa5cfa544d79584972dd5234a409e/XT30U%20SPEC.pdf
+RC Connector XT30
+0
+2
+2
+squirrelbrain
+AMASS_XT30U-M_1x02_P5.0mm_Vertical
+Connector XT30 Vertical Cable Male, https://www.tme.eu/en/Document/3cbfa5cfa544d79584972dd5234a409e/XT30U%20SPEC.pdf
+RC Connector XT30
+0
+2
+2
+squirrelbrain
+JST_BM02B-SRSS-TB_LF__SN_
+
+
+0
+4
+4
+squirrelbrain
 JST_SM02B-SRSS-TB(LF)(SN)
 <b>SM02B-SRSS-TB</b><br>
 
@@ -91930,6 +91951,13 @@ SN74LVC2G125DCU
 0
 8
 8
+squirrelbrain
+SolderWire-Actual_1x01_D1.7mm_OD_2.75mm
+Soldered wire connection, for a single 0.75 mm² wire, basic insulation, conductor diameter 1.25mm, outer diameter 2.3mm, size source Multi-Contact FLEXI-E 0.75 (https://ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf), bend radius 3 times outer diameter, generated with kicad-footprint-generator
+connector wire 0.75sqmm
+0
+1
+1
 squirrelbrain
 THVD1420DRLR
 
