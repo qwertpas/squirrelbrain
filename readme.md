@@ -1,6 +1,18 @@
 ## Squirrelbrain v2
+![vid](media/youtube.png)
+
+[Youtube video](https://youtube.com/shorts/pgTb6q6fkRE?feature=shared)
+<style>
+    img {
+        max-width: 50%;
+        height: auto;
+    }
+</style>
+
+
 ![Front View](media/brainv2_back.png)
 ![Back View](media/brainv2_front.png)
+
 Main control board for the [Pintobotics](https://pintobotics.substack.com) robotic squirrel. It uses a Seeeduino XIAO ESP32S3 for wireless communication with a base station, is able to drive [dynamixel 5V TTL servos](https://www.robotis.us/dynamixel-xl330-m077-t/) up to 6A, and has two separate RS485 buses. 
 
 The RS485 buses are intended for:
